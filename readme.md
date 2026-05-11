@@ -3,5 +3,7 @@
 
 ## Progreass:
 > Model: Pending
+
 > Textures: Pending
+
 > Ship stats and definitions: Pending
