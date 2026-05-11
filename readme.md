@@ -7,3 +7,7 @@
 > Textures: Pending
 
 > Ship stats and definitions: Pending
+
+> Integration of sensors: Pending
+
+> Integration of weapons: Pending
