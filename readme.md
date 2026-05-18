@@ -9,7 +9,7 @@
 - Ship stats and definitions: In progress
     - Physics: In progress
     - Sounds: Pending
-    - Particles: Pending
+    - Particles: In progress
 - Systems
     - Weapons:
         - AK-630 CIWS: Almost done
