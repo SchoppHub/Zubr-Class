@@ -1,7 +1,7 @@
 # Zubr-Class Landing Hovercraft Mod for Sea Power
-## Status: Prototyping
+## Status: Work in progress
 
-## Progreass:
+## Progress:
 - Model: In progress
     - Mesh: Almost done
     - UV Maps: In progress
