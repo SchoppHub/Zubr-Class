@@ -2,12 +2,12 @@
 ## Status: Prototyping
 
 ## Progreass:
-> Model: Pending
+> Model: Almost done
 
 > Textures: Pending
 
-> Ship stats and definitions: Pending
+> Ship stats and definitions: In Progress
 
-> Integration of sensors: Pending
+> Integration of sensors: In Progress
 
-> Integration of weapons: Pending
+> Integration of weapons: In Progress
